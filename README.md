@@ -20,6 +20,7 @@ f).The whole app will be separated into five different modules namely main.dart,
 
 
 ## Photos
-<img src="https://user-images.githubusercontent.com/80382586/111075166-bd7b2c80-850c-11eb-96e6-691712891078.jpg" width="500" height="900">
+<img src="https://user-images.githubusercontent.com/80382586/147370550-d4bd2f1a-6133-4d22-9ed3-82de986bd013.png" width="1300" height="800">
+<!-- <img src="https://user-images.githubusercontent.com/80382586/111075166-bd7b2c80-850c-11eb-96e6-691712891078.jpg" width="500" height="900">
 
-<img src="https://user-images.githubusercontent.com/80382586/111075163-b9e7a580-850c-11eb-8c02-afbcdf9a2c58.jpg" width="500" height="900">
+<img src="https://user-images.githubusercontent.com/80382586/111075163-b9e7a580-850c-11eb-8c02-afbcdf9a2c58.jpg" width="500" height="900"> -->
